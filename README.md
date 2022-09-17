@@ -16,7 +16,7 @@ Parameters are as follows:
  * w: window-size,the default is 5.
  * c: the restart probability, the default is 0.9
  * outpath: the storage path and filename of result, the default is ./out
- * p (<br>optional</br>): the Penalty coefficient, the default is 1.
+ * p (<b>optional</b>): the Penalty coefficient, the default is 1.
 
 ### Requirements
  * numpy
